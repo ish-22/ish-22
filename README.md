@@ -6,9 +6,10 @@ Skilled in building scalable systems with modern frameworks, databases, and clou
 🌐 **Check out my Portfolio:** [ish-22.github.io/ishan-chinthaka](https://ish-22.github.io/ishan-chinthaka/)  
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=flat-square&logo=google-chrome)](https://ish-22.github.io/ishan-chinthaka/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-link)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ishan-chinthaka-1a6b5a2b1/)  
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-pink?style=flat-square&logo=instagram)](https://instagram.com/your-link)  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?style=flat-square&logo=whatsapp)](https://wa.me/your-number)  
+[![Facebook](https://img.shields.io/badge/Facebook-Connect-blue?style=flat-square&logo=facebook)](https://facebook.com/Ishan%20Chinthaka)  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?style=flat-square&logo=whatsapp)](https://wa.me/94765274750)  
 
 ---
 
