@@ -1,4 +1,4 @@
-# Hi 👋, I'm Ishan Chinthaka  
+# Hi 👋, I'm Ishan Chinthaka mama hama welema nidiyanewa habai
 
 Aspiring Software Engineer — Passionate about Web Development, Mobile Apps, and Cloud Computing.  
 Skilled in building scalable systems with modern frameworks, databases, and cloud technologies. 🚀  
