@@ -1,4 +1,4 @@
-# Hi 👋, I'm Ishan Chinthaka mama hama welema nidiyanewa habai
+# Hi 👋, I'm Ishan Chinthaka (mama hama welema nidiyanewa habai) mta buula kiyala katha karanneth oni ethakotai mama wada karanne
 
 Aspiring Software Engineer — Passionate about Web Development, Mobile Apps, and Cloud Computing.  
 Skilled in building scalable systems with modern frameworks, databases, and cloud technologies. 🚀  
