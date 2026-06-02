@@ -20,7 +20,7 @@
 ## 🌐 Portfolio
 
 🔗 **Visit My Portfolio**
-https://ish-22.github.io/ishan-chinthaka/
+https://ishan-chinthaka.vercel.app/
 
 ---
 
