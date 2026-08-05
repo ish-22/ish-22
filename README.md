@@ -128,19 +128,62 @@ Service-Oriented Architecture pharmaceutical management system.
 ⚙️ Tech Stack
 .NET API • SOA Architecture • Database Systems
 
----
-
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=ish-22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+    height="170"
+    alt="GitHub Stats"
+  />
 
-<img src="https://github-readme-stats.vercel.app/api?username=ish-22&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ish-22&layout=compact&theme=tokyonight" />
-
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ish-22&layout=compact&theme=tokyonight&hide_border=true"
+    height="170"
+    alt="Top Languages"
+  />
 </p>
 
----
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=ish-22&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ish-22&theme=tokyonight"
+    width="100%"
+    alt="Profile Details"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ish-22&theme=tokyonight"
+    width="48%"
+    alt="Repos per Language"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ish-22&theme=tokyonight"
+    width="48%"
+    alt="Most Commit Language"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ish-22&theme=tokyonight"
+    width="48%"
+    alt="Stats"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ish-22&theme=tokyonight&utcOffset=5.5"
+    width="48%"
+    alt="Productive Time"
+  />
+</p>
 
 # 🔥 GitHub Streak
 
@@ -158,11 +201,11 @@ Service-Oriented Architecture pharmaceutical management system.
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ish-22&theme=onedark&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ish-22&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4"/>
 
 </p>
 
