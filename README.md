@@ -130,15 +130,6 @@ Service-Oriented Architecture pharmaceutical management system.
 
 
 
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ish-22&theme=tokyonight"/>
-
-</p>
-
----
 
 # 📈 Activity Graph
 
