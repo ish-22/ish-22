@@ -292,57 +292,10 @@ It's about:
 
 ---
 
-# 📊 GitHub Analytics
 
-<div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=ish-22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ish-22&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
-</div>
-
----
-
-# 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=ish-22&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ish-22&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
-
-</div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ish-22&theme=tokyo-night&hide_border=true&area=true" />
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/ish-22/ish-22/output/github-contribution-grid-snake.svg" />
-
-</div>
-
----
 
 # 🌎 Open Source
 
