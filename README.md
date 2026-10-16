@@ -460,5 +460,6 @@ I'm always interested in discussing software development, cloud computing, AI, U
 **Made with 💻 & ☕ by Ishan Chinthaka**
 
 ⭐ If you find my work interesting, consider following me and starring my repositories.
+ <img src="https://komarev.com/ghpvc/?username=ish-22&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge" alt="Profile Views" />
 
 </div>
