@@ -451,7 +451,7 @@ I'm always interested in discussing software development, cloud computing, AI, U
 <a href="mailto:ishanchinthaka2002@gmail.com">
 <img src="https://img.shields.io/badge/📧%20Email-Contact-EA4335?style=for-the-badge&logo=gmail" alt="Email"/>
 </a>
-
+<img src="https://komarev.com/ghpvc/?username=ish-22&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge" alt="Profile Views" />
 <br/><br/>
 
 
@@ -460,6 +460,6 @@ I'm always interested in discussing software development, cloud computing, AI, U
 **Made with 💻 & ☕ by Ishan Chinthaka**
 
 ⭐ If you find my work interesting, consider following me and starring my repositories.
- <img src="https://komarev.com/ghpvc/?username=ish-22&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge" alt="Profile Views" />
+ 
 
 </div>
