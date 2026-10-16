@@ -20,7 +20,12 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=ish-22&label=Profile%20Views&color=00F7FF&style=for-the-badge" alt="Profile Views"/>
+<p align="left">
+  <img
+    src="https://komarev.com/ghpvc/?username=ish-22&label=Profile%20Views&color=00F7FF&style=for-the-badge"
+    alt="GitHub Profile Views"
+  />
+</p>
 
 </div>
 
@@ -452,7 +457,12 @@ I'm always interested in discussing software development, cloud computing, AI, U
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=ish-22&label=Profile%20Views&color=00F7FF&style=flat-square" alt="Profile Views"/>
+<p align="left">
+  <img
+    src="https://komarev.com/ghpvc/?username=ish-22&label=Profile%20Views&color=00F7FF&style=for-the-badge"
+    alt="GitHub Profile Views"
+  />
+</p>
 
 <br/><br/>
 
