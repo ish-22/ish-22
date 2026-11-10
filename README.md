@@ -4,7 +4,7 @@
 
 ### Associate Software Developer | Full Stack Developer
 
-Building modern web applications, scalable backend systems, and meaningful digital experiences.
+Building modern web applications, scalable backend systems, desktop applications, and meaningful digital experiences.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://ishan-chinthaka.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/ish-22)
@@ -22,11 +22,12 @@ I'm **Ishan Chinthaka**, an Associate Software Developer passionate about design
 
 Currently working at **Amazoft**, where I contribute to software development and work with modern technologies to build practical applications.
 
-I enjoy working across the full software development lifecycle, from frontend development and backend architecture to database management, API integration, and deployment.
+I enjoy working across the full software development lifecycle, from frontend development and backend architecture to database management, API integration, desktop application development, and deployment.
 
 - 💻 Full Stack Web Application Development
 - ⚛️ React, Next.js & Angular Development
 - ⚙️ Node.js, Laravel, Ruby & .NET
+- 🖥️ Desktop Application Development with Electron
 - 🗄️ Database Design & Management
 - ☁️ AWS Cloud & Application Deployment
 - 🤖 AI Integration & Intelligent Applications
@@ -42,30 +43,50 @@ I enjoy working across the full software development lifecycle, from frontend de
 ### Frontend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,angular,typescript,javascript,html,css,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,typescript,javascript,html,css,tailwind&perline=8" />
 </p>
 
 ### Backend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,php,laravel,ruby,rails,python,java,kotlin,dotnet,cs" />
+<img src="https://skillicons.dev/icons?i=nodejs,php,laravel,ruby,python,java,kotlin,dotnet,cs&perline=8" />
 </p>
+
+**Additional Backend Technologies:**
+
+![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat-square&logo=rubyonrails&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-009688?style=flat-square)
+![SOA](https://img.shields.io/badge/SOA-Architecture-4B8BBE?style=flat-square)
+
+### Desktop & Mobile Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=electron,androidstudio,java,kotlin&perline=6" />
+</p>
+
+- Electron – Cross-platform desktop applications
+- Android Studio – Android application development
+- Java & Kotlin – Mobile application development
 
 ### Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,redis" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&perline=6" />
 </p>
 
-**Additional:** Amazon DynamoDB
+**Additional Database Technologies:**
+
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/Amazon_DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
 
 ### Cloud & DevOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,githubactions,cloudflare,linux,bash" />
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,githubactions,cloudflare,linux,bash&perline=8" />
 </p>
 
 **Cloud Technologies:**
+
 - Amazon EC2, S3, RDS & DynamoDB
 - AWS Lambda & API Gateway
 - AWS IAM & CloudFront
@@ -77,8 +98,14 @@ I enjoy working across the full software development lifecycle, from frontend de
 ### Development Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,postman,figma,git,github" />
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,postman,figma,git,github&perline=8" />
 </p>
+
+**Additional Tools:**
+
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=flat-square)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ---
 
@@ -186,13 +213,23 @@ Areas I'm particularly interested in:
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=ish-22&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=ish-22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ish-22&layout=compact&theme=tokyonight&hide_border=true" />
 
-<br/>
+<br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=ish-22&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 📊 GitHub Contribution Activity
+
+<div align="center">
+
+[![Ishan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ish-22&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ish-22)
 
 </div>
 
@@ -204,6 +241,7 @@ Areas I'm particularly interested in:
 - ⚛️ Improving React, Next.js and Angular development
 - ⚙️ Strengthening backend engineering with Node.js and .NET
 - 💎 Exploring Ruby on Rails
+- 🖥️ Developing cross-platform desktop applications with Electron
 - ☁️ Developing practical AWS cloud solutions
 - 🤖 Integrating AI into modern applications
 - 🐳 Improving Docker and CI/CD workflows
