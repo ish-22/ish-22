@@ -221,8 +221,6 @@ Areas I'm particularly interested in:
 
 ---
 
-## 📊 GitHub Contribution Activity
-
 ---
 
 ## 🎯 Current Focus
