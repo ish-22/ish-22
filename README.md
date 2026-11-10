@@ -213,10 +213,6 @@ Areas I'm particularly interested in:
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=ish-22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ish-22&layout=compact&theme=tokyonight&hide_border=true" />
-
 <br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=ish-22&theme=tokyonight&hide_border=true" />
@@ -226,12 +222,6 @@ Areas I'm particularly interested in:
 ---
 
 ## 📊 GitHub Contribution Activity
-
-<div align="center">
-
-[![Ishan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ish-22&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ish-22)
-
-</div>
 
 ---
 
