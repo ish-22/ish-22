@@ -107,88 +107,6 @@ I enjoy working across the full software development lifecycle, from frontend de
 ![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=flat-square)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
----
-
-## 🌟 Featured Projects
-
-### 🚌 Track My Bus – Smart Public Transport System
-
-A digital transportation ecosystem designed to connect passengers, drivers, bus owners, and administrators.
-
-**Key Features**
-- GPS-based bus tracking
-- Online ticket booking and seat reservations
-- Real-time seat locking
-- Google Maps integration
-- Driver management
-- Role-based authentication
-- Administrative dashboard
-
-**Technologies:** `Next.js` `TypeScript` `Laravel` `MySQL` `Redis` `Google Maps` `AWS S3`
-
----
-
-### 🤖 AI-Powered Intelligent Study Assistant
-
-An intelligent learning platform designed to help students understand educational materials through AI-powered features.
-
-**Key Features**
-- PDF document summarization
-- AI-powered question and answer assistant
-- Automatic quiz generation
-- Personalized learning experience
-- Student progress analytics
-- Secure authentication
-
-**Technologies:** `Next.js` `TypeScript` `Node.js` `AWS` `DynamoDB` `AI Integration`
-
----
-
-### 🎬 Movie Explorer
-
-A responsive movie discovery application integrated with the TMDb API.
-
-**Key Features**
-- Movie search and discovery
-- Trending movies
-- Movie details
-- Favorites management
-- Dark and light themes
-- Infinite scrolling
-
-**Technologies:** `React` `JavaScript` `Axios` `Material UI` `Context API` `TMDb API`
-
----
-
-### 🏨 LuxeVista Resort
-
-An Android application designed to provide hotel guests with convenient digital services.
-
-**Key Features**
-- Room booking
-- Service reservations
-- User authentication
-- Local database management
-- Mobile-first interface
-
-**Technologies:** `Java` `SQLite` `Android Studio`
-
----
-
-### 💊 SPC Pharmaceutical SOA System
-
-A service-oriented pharmaceutical management application.
-
-**Key Features**
-- Supplier management
-- Inventory and stock management
-- Order processing
-- REST API services
-- Database integration
-
-**Technologies:** `.NET` `C#` `REST APIs` `SOA`
-
----
 
 ## ☁️ Cloud & Backend Interests
 
@@ -250,9 +168,5 @@ I'm always interested in connecting with developers, exploring new technologies,
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ishanchinthaka2002@gmail.com)
 
 <br/>
-
-### "Think. Build. Solve. Improve."
-
-**Made with ❤️ by Ishan Chinthaka**
 
 </div>
