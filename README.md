@@ -155,18 +155,3 @@ Areas I'm particularly interested in:
 - 🌍 Contributing to open-source projects
 
 ---
-
-## 🤝 Let's Connect
-
-I'm always interested in connecting with developers, exploring new technologies, collaborating on exciting projects, and discussing software engineering.
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://ishan-chinthaka.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/ish-22)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ishan-chinthaka-1a6b5a2b1/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ishanchinthaka2002@gmail.com)
-
-<br/>
-
-</div>
