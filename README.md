@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Ishan Chinthaka
 
-### Associate Software Developer | Full Stack Developer
+### Associate Software Engineer | Full Stack Developer
 
 Building modern web applications, scalable backend systems, desktop applications, and meaningful digital experiences.
 
