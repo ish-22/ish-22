@@ -18,7 +18,7 @@ Building modern web applications, scalable backend systems, desktop applications
 
 ## 🚀 About Me
 
-I'm **Ishan Chinthaka**, an Associate Software Developer passionate about designing and developing modern, scalable, and user-focused software solutions.
+I'm **Ishan Chinthaka**, an Associate Software Engineer passionate about designing and developing modern, scalable, and user-focused software solutions.
 
 Currently working at **Amazoft**, where I contribute to software development and work with modern technologies to build practical applications.
 
