@@ -1,157 +1,24 @@
- <div align="center">
-
-# 👋 Hi, I'm Ishan Chinthaka
+# Hi, I'm Ishan Chinthaka 👋
 
 ### Associate Software Engineer | Full Stack Developer
 
-Building modern web applications, scalable backend systems, desktop applications, and meaningful digital experiences.
+💻 Passionate about building modern web applications and scalable software solutions.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://ishan-chinthaka.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/ish-22)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ishan-chinthaka-1a6b5a2b1/)
+- 🔭 Currently working at **Amazoft**
+- ⚛️ Frontend: React, Next.js, Angular
+- ⚙️ Backend: Node.js, Laravel, .NET, Ruby
+- 🗄️ Database: MySQL, PostgreSQL, MongoDB
+- ☁️ Cloud: AWS, Azure
+- 🖥️ Desktop: Electron
 
-![Profile Views](https://komarev.com/ghpvc/?username=ish-22&style=for-the-badge&color=00D9FF)
+### 🛠️ Tech Stack
 
-</div>
+![My Skills](https://skillicons.dev/icons?i=react,nextjs,angular,typescript,nodejs,php,laravel,dotnet,mysql,postgres,mongodb,aws,azure,docker,electron,postman,git,github)
 
----
+### 📊 GitHub Stats
 
-## 🚀 About Me
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ish-22&show_icons=true&theme=tokyonight&hide_border=true)
 
-I'm **Ishan Chinthaka**, an Associate Software Engineer passionate about designing and developing modern, scalable, and user-focused software solutions.
+### 🌐 Connect With Me
 
-Currently working at **Amazoft**, where I contribute to software development and work with modern technologies to build practical applications.
-
-I enjoy working across the full software development lifecycle, from frontend development and backend architecture to database management, API integration, desktop application development, and deployment.
-
-- 💻 Full Stack Web Application Development
-- ⚛️ React, Next.js & Angular Development
-- ⚙️ Node.js, Laravel, Ruby & .NET
-- 🖥️ Desktop Application Development with Electron
-- 🗄️ Database Design & Management
-- ☁️ AWS Cloud & Application Deployment
-- 🤖 AI Integration & Intelligent Applications
-- 📱 Web & Android Application Development
-- 🔐 Secure, Maintainable & Scalable Systems
-
-> **My goal:** Build software that solves real problems and creates meaningful user experiences.
-
----
-
-## 🛠️ Technology Stack
-
-### Frontend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,angular,typescript,javascript,html,css,tailwind&perline=8" />
-</p>
-
-### Backend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,php,laravel,ruby,python,java,kotlin,dotnet,cs&perline=8" />
-</p>
-
-**Additional Backend Technologies:**
-
-![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat-square&logo=rubyonrails&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-009688?style=flat-square)
-![SOA](https://img.shields.io/badge/SOA-Architecture-4B8BBE?style=flat-square)
-
-### Desktop & Mobile Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=electron,androidstudio,java,kotlin&perline=6" />
-</p>
-
-- Electron – Cross-platform desktop applications
-- Android Studio – Android application development
-- Java & Kotlin – Mobile application development
-
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&perline=6" />
-</p>
-
-**Additional Database Technologies:**
-
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/Amazon_DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
-
-### Cloud & DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,githubactions,cloudflare,linux,bash&perline=8" />
-</p>
-
-**Cloud Technologies:**
-
-- Amazon EC2, S3, RDS & DynamoDB
-- AWS Lambda & API Gateway
-- AWS IAM & CloudFront
-- AWS CloudWatch & SES
-- Microsoft Azure App Service
-- Azure SQL & Azure Storage
-- CI/CD & Application Deployment
-
-### Development Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,postman,figma,git,github&perline=8" />
-</p>
-
-**Additional Tools:**
-
-![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
-![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=flat-square)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
-
-## ☁️ Cloud & Backend Interests
-
-I'm continuously developing my knowledge of cloud architecture and backend engineering.
-
-Areas I'm particularly interested in:
-
-- AWS Cloud Architecture
-- Serverless Application Development
-- RESTful API Design
-- Microservices Architecture
-- Database Optimization
-- Authentication & Authorization
-- Docker & Containerization
-- CI/CD Automation
-- Application Security
-- Performance & Scalability
-
----
-
-## 📈 GitHub Statistics
-
-<div align="center">
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=ish-22&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
----
-
-## 🎯 Current Focus
-
-- 🚀 Building production-ready full-stack applications
-- ⚛️ Improving React, Next.js and Angular development
-- ⚙️ Strengthening backend engineering with Node.js and .NET
-- 💎 Exploring Ruby on Rails
-- 🖥️ Developing cross-platform desktop applications with Electron
-- ☁️ Developing practical AWS cloud solutions
-- 🤖 Integrating AI into modern applications
-- 🐳 Improving Docker and CI/CD workflows
-- 🧠 Learning system design and software architecture
-- 🌍 Contributing to open-source projects
-
----
+[Portfolio](https://ishan-chinthaka.vercel.app/) | [GitHub](https://github.com/ish-22) | [LinkedIn](https://www.linkedin.com/in/ishan-chinthaka-1a6b5a2b1/)
